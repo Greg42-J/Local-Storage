@@ -1,0 +1,44 @@
+body{
+    font-family:sans-serif ;
+}
+.main{
+    /* border:2px solid green; */
+    max-width:50%;
+    margin:5% auto;
+}
+.main-h1{
+    max-width:45%;
+    margin: 0 auto;
+    background-color:#5cb85c;
+}
+.main-h1 h1{
+    padding: 9px 0;
+    text-align: center;
+}
+.contactForm{
+    width: 60%;
+    margin: 0 auto;
+}
+.first-last,.e-mail,.phn,.btn{
+    margin-left:6%;
+}
+.first-last label,.e-mail label,.phn label{
+    display: inline-block;
+    margin-bottom: 1%;
+    font-size: 22px;
+}
+.first-last input,.e-mail input,.phn input{
+    height: 30px;
+    font-size: 18px;
+}
+.btn input{
+    width: 21%;
+    height: 42px;
+    font-size: 20px;
+}
+table{
+    width: 70%;
+    margin: 0 auto;
+    padding: 10px;
+    border: 1px solid;
+}
